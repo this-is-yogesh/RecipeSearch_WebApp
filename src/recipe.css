@@ -1,0 +1,9 @@
+.recipe {
+    margin: 40%;
+}
+
+.recipe-image{
+    border-radius: 50%;
+    object-fit: cover;
+    
+}
